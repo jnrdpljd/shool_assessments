@@ -1,0 +1,26 @@
+[
+    { 
+        "name": "alden", 
+        "image": "assets/alden.png" 
+    },
+    { 
+        "name": "junnie", 
+        "image": "assets/junnie.png" 
+    },
+    { 
+        "name": "malupiton", 
+        "image": "assets/malupiton.png" 
+    },
+    { 
+        "name": "kalbo", 
+        "image": "assets/kalbo.png" 
+    },
+    { 
+        "name": "tearsofjoy", 
+        "image": "assets/tearsofjoy.png" 
+    },
+    { 
+        "name": "pacqute", 
+        "image": "assets/pacqute.png" 
+    }
+]
